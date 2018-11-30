@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/nadoo/glider/common/log"
+	"github.com/kiitehq/glider/common/log"
 )
 
 // StatusHandler function will be called when the forwarder's status changed

@@ -3,8 +3,8 @@ package socks5
 import (
 	"net"
 
-	"github.com/nadoo/glider/common/log"
-	"github.com/nadoo/glider/common/socks"
+	"github.com/kiitehq/glider/common/log"
+	"github.com/kiitehq/glider/common/socks"
 )
 
 // PktConn .

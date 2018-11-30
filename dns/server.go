@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nadoo/glider/common/log"
-	"github.com/nadoo/glider/proxy"
+	"github.com/kiitehq/glider/common/log"
+	"github.com/kiitehq/glider/proxy"
 )
 
 // conn timeout, seconds

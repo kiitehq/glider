@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/nadoo/glider/common/log"
+	"github.com/kiitehq/glider/common/log"
 )
 
 // Dialer means to establish a connection and relay it.

@@ -6,8 +6,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/nadoo/glider/common/log"
-	"github.com/nadoo/glider/proxy"
+	"github.com/kiitehq/glider/common/log"
+	"github.com/kiitehq/glider/proxy"
 )
 
 // VMess .

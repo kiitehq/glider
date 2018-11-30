@@ -5,11 +5,11 @@ import (
 	"net"
 	"net/url"
 
-	"github.com/nadoo/glider/common/conn"
-	"github.com/nadoo/glider/common/log"
-	"github.com/nadoo/glider/proxy"
-	"github.com/nadoo/glider/proxy/http"
-	"github.com/nadoo/glider/proxy/socks5"
+	"github.com/kiitehq/glider/common/conn"
+	"github.com/kiitehq/glider/common/log"
+	"github.com/kiitehq/glider/proxy"
+	"github.com/kiitehq/glider/proxy/http"
+	"github.com/kiitehq/glider/proxy/socks5"
 )
 
 // https://www.ietf.org/rfc/rfc2616.txt, http methods must be uppercase

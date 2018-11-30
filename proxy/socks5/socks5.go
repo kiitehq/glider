@@ -20,10 +20,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nadoo/glider/common/conn"
-	"github.com/nadoo/glider/common/log"
-	"github.com/nadoo/glider/common/socks"
-	"github.com/nadoo/glider/proxy"
+	"github.com/kiitehq/glider/common/conn"
+	"github.com/kiitehq/glider/common/log"
+	"github.com/kiitehq/glider/common/socks"
+	"github.com/kiitehq/glider/proxy"
 )
 
 // Version is socks5 version number
